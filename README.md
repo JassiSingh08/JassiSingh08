@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jassi Singh
 - 👀 I’m interested in Creating Stuffs
-- 🌱 I’m currently learning *Full Stack*
+- 🌱 I’m currently learning *MERN Full Stack*
 - 📫 Reachme via My LinkedIn
 
 <!---
