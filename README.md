@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jassi Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-🌱 I’m currently learning React, Node, Anything else I can get my hands ON!!<br><br>💬 Ask me about MERN Stack<br><br>📫 How to reach me singhjassi693@gmail.com<br><br>⚡ Fun fact I am a 3d Modelling Geek and a mood smoother writer<br><br>
+🌱 I’m currently learning React, Node, and Anything else I can get my hands ON!!<br><br>💬 Ask me about MERN Stack<br><br>📫 How to reach me singhjassi693@gmail.com<br><br>⚡ Fun fact I am a 3d Modelling Geek and a mood smoother writer<br><br>
 
 
 ## 🌐 Socials:
